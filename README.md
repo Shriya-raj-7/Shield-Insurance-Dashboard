@@ -16,7 +16,7 @@ The objective of this project was to analyze **revenue, customers, sales modes, 
 - **Excel/CSV** datasets (dim_customer, dim_date, dim_policies, fact_premiums, fact_settlements)  
 
 ## 📽️ Links
-- 🔗 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTI1NmI1ZWItZTk5OC00ZTlhLTk4NjYtY2MzNmM3OTllNWU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+- 🔗 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWUwMGY5MzQtNTI1My00YTRlLWIyYjEtNjY2MTYzYjc2NzFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 - 🔗 [LinkedIn Post](https://www.linkedin.com/posts/shriyaraj711_codebasicsvirtualinternship-codebasicsvirtualinternship-activity-7377381863272787968-y9Xk?utm_source=share&utm_medium=member_desktop&rcm=ACoAADq4KNUBPOENPwMn0SoTkXeMkX6oLF6Jgi0)  
 
 ## 💡 Key Insights
